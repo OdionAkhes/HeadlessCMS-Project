@@ -1,12 +1,9 @@
+[Project Demo](https://headless-cms-projects.vercel.app/).
 # Headless CMS
 
 A headless CMS is a back-end only content management system that provides content creators with an intuitive interface for creating and managing content, while leaving the front-end presentation layer to be handled by a separate system or platform. This approach allows for greater flexibility and scalability, as the content can be easily distributed to multiple channels and devices, without being limited by the constraints of a particular front-end system.
 
-space id-jf4hckocl4dh
 
-access token - 
-
-preview token - UDD9J5v8vpBEg2yE8BCUiZoSD8XjiAw2rQo_QlkHAvU
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
